@@ -1,16 +1,45 @@
-# netflix
+# 🎬 Netflix Clone Flutter
 
-A new Flutter project.
+🚀 Un clone de l’application Netflix développé en Flutter, comme projet de fin de formation.
 
-## Getting Started
+## 📱 Aperçu du projet
 
-This project is a starting point for a Flutter application.
+- ✅ Splash Screen animé (Lottie)
+- ✅ Page d'onboarding
+- ✅ Page de connexion responsive
+- 🔜 Écran d’accueil
+- 🔜 Navigation dynamique
+- 🔜 Intégration de contenus vidéo
 
-A few resources to get you started if this is your first Flutter project:
+## 🎯 Objectifs
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Approfondir mes compétences en Flutter
+- Travailler le design UI/UX
+- M’exercer sur la logique d’une application mobile complète
+- Découvrir les bonnes pratiques de développement mobile
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📷 Captures d’écran
+
+> ![OnBoarding Page 1](assets/images/sc1.jpg)
+> ![OnBoarding Page 2](assets/images/sc2.jpg)
+> ![Subscription Page](assets/images/sc3.jpg)
+
+## 🚧 En cours
+
+- [ ] Accueil personnalisé
+- [ ] Lecture vidéo avec contrôles
+- [ ] Responsive design optimisé tablette
+
+## 🛠️ Technologies utilisées
+
+- Flutter
+- Dart
+- Lottie
+- Firebase (si prévu pour auth plus tard)
+- GitHub
+
+## 👨‍💻 Auteur
+
+👋 Développé par [Light DJOSSOU](https://www.linkedin.com/in/kokou-light-djossou-90216233b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app), étudiant en Intelligence Artificielle et passionné par le développement mobile et web.
+
+---
